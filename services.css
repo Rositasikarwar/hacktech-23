@@ -1,0 +1,110 @@
+body{
+        color: #af290f;
+}
+a{
+    width: 140 px;
+    padding: 12px 10px;
+    outline: none;
+    color: #ebedee ;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: #af290f;
+    font-size: 15px;
+}
+.img1{
+    width: 260px;
+    padding-bottom: 110px;}
+a:hover{
+    background-color: #ebedee;
+    color: #af290f;
+    cursor: pointer;
+    border : solid 2px  #af290f ;
+    }
+
+
+button{
+    width: 140 px;
+    border : 0;
+    padding: 12px 10px;
+    outline: none;
+    color: #ebedee ;
+    border-radius: 4px;
+    cursor: pointer;
+    border : solid 1px  #ebedee ;
+    margin-top: 10px;
+    background-color: #af290f;
+    font-size: 15px;
+    
+}
+button:hover{
+background-color: #ebedee;
+color: #af290f;
+cursor: pointer;
+border : solid 2px  #af290f ;
+}
+
+
+
+/*---Services---*/
+
+#service{
+    padding-top: 10px ;
+    padding-bottom: 30px;
+    background-color: #af290f;
+
+}
+.heading{
+    font-family: 'Candal', sans-serif;
+    font-size: 30px;
+    color: #ebedee;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.service-row{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.service-col{
+    margin-top: 25px;
+    flex-basis: 30%;
+    text-align: center;
+
+}
+
+
+.service-col img{
+    width: 250px;
+    height: 250px;
+    
+}
+.service-col h4{
+    color: #ebedee;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.service-col p{
+   color: #ebedee;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-family: 'Cormorant Garamond', serif;
+    
+    
+}
+.service-btn{
+    margin: 80px auto 0px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+.line {
+    border-top: 2px dotted #bbb;
+    margin-top: 10px;
+}
+
