@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+button{
+    width: 140 px;
+    border : 0;
+    padding: 12px 12px;
+    margin-left: 90px;
+    outline: none;
+    color: #ebedee ;
+    border-radius: 4px;
+    cursor: pointer;
+    border : solid 1px  #ebedee ;
+    margin-top: 10px;
+    background-color: #af290f;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+    
+    
+}
+button:hover{
+background-color: #ebedee;
+color: #af290f;
+cursor: pointer;
+border : solid 2px  #af290f ;
+}
+
+body{
+    height: 100vh;
+    overflow: hidden;
+    background-color:  #f3af52;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.container{
+    width: 250px;
+    height: 400px;
+    perspective: 800px;
+    margin: 50px 50px;
+
+}
+.container:hover > .card{
+    cursor: pointer;
+    transform: rotateY(180deg) ;
+}
+.card{
+    height: 100%;
+    width: 100%;
+    position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+
+}
+.front h1{
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.back h1{
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+   
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.back p{
+    color: black;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.front, .back{
+    height: 100%;
+    width: 100%;
+    border-radius: 2rem;
+    box-shadow: 0 0 5px 2px #f3af52;
+    position: absolute;
+    backface-visibility: hidden;
+}
+.front{
+    background-image : url(p.png);
+}
+
+.back{
+    background-color: #f3af52;
+    transform: rotateY(180deg) ;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 5rem;
+
+}
