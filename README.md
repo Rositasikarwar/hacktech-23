@@ -1,9 +1,12 @@
 # Hacknitr4.0 Team-RAYTown
 
-[Figma link](https://www.figma.com/file/NyvcygKlzmhsmC4yijEp03/Saheli?node-id=1%3A2&t=s0OO0ExB5QrnI6SC-0)
+[Figma Link](https://www.figma.com/file/NyvcygKlzmhsmC4yijEp03/Saheli?node-id=1%3A2&t=s0OO0ExB5QrnI6SC-0)
 
 [Video Explanation](https://drive.google.com/file/d/1M6pOckS7enFPmNzb0UfqCoUpsXScMAMG/view?usp=sharing)
 
+[Canva Link](https://www.canva.com/design/DAFWxjCD8XY/Ekhk-qFv4llhBXt4sGhgJQ/view?utm_content=DAFWxjCD8XY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+--------------------------------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/91609480/211157175-520e5e9a-7947-412e-beda-4b8dcc555cdc.png)
 ![2](https://user-images.githubusercontent.com/91609480/211157183-1dc6d35e-8e15-41d5-ba63-d01ff0db6e39.png)
 ![3](https://user-images.githubusercontent.com/91609480/211157190-3829472c-e3ab-482c-86f5-e920317fd656.png)
