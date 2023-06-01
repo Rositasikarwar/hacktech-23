@@ -336,7 +336,9 @@ margin-bottom: 0px;
     
 }
 
-
+.contact-text .share a{
+    text-decoration:none;
+}
 .products .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
