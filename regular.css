@@ -5,7 +5,8 @@
     align-items: center;
     flex-wrap: wrap;
     height: 100%;
-    background-image: linear-gradient(180deg, #ff6961, #af290f);    height: 100%;
+    /* background-image: linear-gradient(180deg, #ff6961, #af290f);    height: 100%; */
+    background-image: url(Images/food\ diet\ \(Banner\ \(Portrait\)\).png);
     height: 100%;
 
 }
