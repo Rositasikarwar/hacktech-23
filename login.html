@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -17,24 +17,44 @@
       <h1>Login</h1>
       <form method="post">
         <div class="txt_field">
-          <input type="text">
-          <span></span>
-          <label>Username</label>
+          <input type="text" placeholder="Email Id" id="input_email_login"/>
         </div>
         <div class="txt_field">
-          <input type="password">
-          <span></span>
-          <label>Password</label>
+          <input
+            type="password"
+            id="input_email_password"
+            placeholder="Password"
+          />
         </div>
         <div class="pass">Forgot Password?</div>
-        <button type = "button"><a href="services.html">Login</a></button>
+        <button type = "button" id="sign_in_user_button">Login</button>
         <!-- <button type = "button" > <a href="login.html">Login here</a></button> -->
         <!-- <input type="submit" value="Login" > -->
         <div class="signup_link">
-          Not a member? <a href="#">Sign up</a>
+          <form class="login-form">
+            <button type="button" onclick="window.location.href='signup.html'">
+              Sign Up
+            </button>
+          </form>
         </div>
       </form>
     </div>
+
+    <script>
+      function show() {
+        var password = document.getElementById("input_email_password");
+        var icon = document.querySelector(".fas");
+
+        // ========== Checking type of password ===========
+        if (password.type === "password") {
+          password.type = "text";
+        } else {
+          password.type = "password";
+        }
+      }
+    </script>
+    <script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
+    <script src="login.js"></script>
 
   </body>
 </html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Saheli-SignUp-Form</title>
+    <link rel="icon" type="" href="Images/android-chrome-512x512.png">
+    <link rel="stylesheet" href="login.css">
+  </head>
+  <body >
+    <section class="background-imgaee">
+    </section>
+    <section class="background-imgae">
+    </section>
+        <div class="center">
+
+      <h1>Sign Up</h1>
+      <form method="post">
+        <div class="txt_field">
+            <input type="text" placeholder="Email" id="input_email"/>
+        </div>
+        <div class="txt_field">
+            <input type="password" id="input_password" placeholder="Set a password"/>
+        </div>
+        <div class="pass">Forgot Password?</div>
+        <form class="login-form">
+            <button type="button" id="sign_up_user_button">
+              SIGN UP
+            </button>
+          </form>
+        <div class="signup_link">
+          Already Register? <a href="login.html">Sign In</a>
+        </div>
+      </form>
+    </div>
+
+    <script>
+        function show() {
+          var password = document.getElementById("input_password");
+          var icon = document.querySelector(".fas");
+
+          // ========== Checking type of password ===========
+          if (password.type === "password") {
+            password.type = "text";
+          } else {
+            password.type = "password";
+          }
+        }
+      </script>
+      <script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
+      <script src="signup.js"></script>
+
+  </body>
+</html>
