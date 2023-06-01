@@ -336,3 +336,81 @@ margin-bottom: 0px;
     
 }
 
+
+.products .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    gap:1.5rem;
+    background-color: #af290f;
+    padding-top: 1 rem;
+}
+
+.products .box-container .box{
+    text-align: center;
+    border:var(--border);
+    padding: 2rem;
+}
+
+.products .box-container .box .icons a{
+    height: 1.5rem;
+    width: 1.5rem;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+    border:var(--border);
+    color:#fff;
+    text-decoration:none;
+    margin:.3rem;
+}
+
+.products .box-container .box .icons a:hover{
+    background:chocolate;
+}
+
+.products .box-container .box .image{
+    padding:0rem ;
+    /* filter: blur(3px); */
+    /* -webkit-filter: blur(3px); */
+}
+
+.products .box-container .box .image img{
+    height: 15rem;
+}
+
+.products .box-container .box .content h4{
+    color:#fff;
+    padding-bottom: inherit;
+    padding-top: 0.1 rem;
+    font-size: 1.4rem;
+}
+
+.products .box-container .box .content .stars{
+    padding: 1.5rem;
+    padding-top: 0.2rem;
+}
+
+.products .box-container .box .content .stars i{
+    font-size: 0.3 rem;
+    /* color: white; */
+}
+
+.products .box-container .box .content .price{
+    color:#fff;
+    font-size: 1.8rem;
+}
+
+.products .box-container .box .content .price span{
+    text-decoration: line-through;
+    font-weight: lighter;
+    font-size: 1.5rem;
+}
+
+.products .heading-our{
+    font-family: 'Candal', sans-serif;
+    font-size: 30px;
+    color: white;
+padding: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 2rem;
+}
+
