@@ -1,21 +1,20 @@
-# Hacknitr4.0 Team-RAYTown
+# HackTech'23 Team-925ers
 
 [Figma Link](https://www.figma.com/file/NyvcygKlzmhsmC4yijEp03/Saheli?node-id=1%3A2&t=s0OO0ExB5QrnI6SC-0)
 
-[Video Explanation](https://drive.google.com/file/d/1M6pOckS7enFPmNzb0UfqCoUpsXScMAMG/view?usp=sharing)
-
-[Canva Link](https://www.canva.com/design/DAFWxjCD8XY/Ekhk-qFv4llhBXt4sGhgJQ/view?utm_content=DAFWxjCD8XY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Canva Link](https://www.canva.com/design/DAFkksIdX58/vKyCY9FgiD9syx2r-AnYlg/edit?utm_content=DAFkksIdX58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 --------------------------------------------------------------------------------------------------------
-![1](https://user-images.githubusercontent.com/91609480/211157175-520e5e9a-7947-412e-beda-4b8dcc555cdc.png)
-![2](https://user-images.githubusercontent.com/91609480/211157183-1dc6d35e-8e15-41d5-ba63-d01ff0db6e39.png)
-![3](https://user-images.githubusercontent.com/91609480/211157190-3829472c-e3ab-482c-86f5-e920317fd656.png)
-![4](https://user-images.githubusercontent.com/91609480/211157197-ce71fe4c-78ce-410b-b79e-e311fb2a0381.png)
-![5](https://user-images.githubusercontent.com/91609480/211157202-08908859-1ec8-4c17-bcae-b1897d68d260.png)
-![6](https://user-images.githubusercontent.com/91609480/211157207-e25a0403-2aa6-4c26-a162-81396132c164.png)
-![7](https://user-images.githubusercontent.com/91609480/211157223-f7002d0d-0e1c-4472-b6d2-491ed42df824.png)
-![8](https://user-images.githubusercontent.com/91609480/211157227-aed1afc6-f4b2-4075-bfd2-d2056e88b386.png)
-![9](https://user-images.githubusercontent.com/91609480/211157235-a7973490-0046-4ff2-aecf-701a0731c0d7.png)
-![10](https://user-images.githubusercontent.com/91609480/211157241-51306415-9d73-4876-941b-904ec32a6212.png)
-![11](https://user-images.githubusercontent.com/91609480/211157246-b1aa361d-b5db-4df7-a1ef-b06237e3495a.png)
-![12](https://user-images.githubusercontent.com/91609480/211157254-7c068ca6-83f6-463c-8ec4-1ff929101325.png)
+![1](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/3fb90ced-c9e8-4c5a-bdf1-c2691bc388ef)
+![2](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/f6376d29-be73-46bd-bb32-5df99a895097)
+![3](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/183366f2-850a-4769-9b23-2640d9baaa2c)
+![4](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/f6a0a65a-f5fc-403c-bd68-de25c3906433)
+![5](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/8e9b5bd0-464a-4c38-9c79-921c218392b1)
+![6](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/fd8b7869-029f-4c01-9c92-edab342d5a56)
+![7](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/45628d84-ac0d-49f7-8827-2f111aaca519)
+![8](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/f02ef993-008c-422b-a1e3-0a216becbbfd)
+![9](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/492fa91c-9c98-49ef-9268-2e80da46a6bb)
+![10](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/bfaa1435-d79f-49eb-970a-f1f51d203061)
+![11](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/e2e03ba9-43a9-484c-b2ec-93c7de1571d3)
+![12](https://github.com/Rositasikarwar/hacktech-23/assets/91609480/b7fc139c-f90a-4d1a-88e4-d26b9715b177)
+
